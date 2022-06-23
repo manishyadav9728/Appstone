@@ -1,0 +1,34 @@
+.mainContainer {
+  height: 33%;
+}
+.upper {
+  height: 70%;
+}
+.image {
+  height: 120px;
+  display: inline;
+}
+.temp {
+  display: inline;
+  color: aliceblue;
+  font-size: 100px;
+  position: relative;
+  top: -40px;
+}
+.text {
+  display: inline-block;
+  margin-left: 20px;
+  color: rgb(34, 35, 35);
+  position: relative;
+  top: -20px;
+  font-size: large;
+}
+.lower {
+}
+.lowerText {
+  display: inline;
+  margin-left: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(33, 31, 31);
+}

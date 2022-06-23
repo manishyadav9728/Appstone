@@ -1,0 +1,28 @@
+.weather {
+  height: 30%;
+  display: flex;
+  justify-content: space-between;
+}
+.dailyData {
+  height: 100%;
+  display: inline;
+  width: 14%;
+}
+.dailyImage {
+  height: 100px;
+  display: inline;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: larger;
+}
+.dailyTemp {
+  color: aliceblue;
+  position: relative;
+  top: -40px;
+  display: flex;
+  justify-content: center;
+}
